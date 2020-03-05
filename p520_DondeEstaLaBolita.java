@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DondeEstaLaBolita {
+public class p520_DondeEstaLaBolita {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
